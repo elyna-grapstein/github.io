@@ -8,3 +8,6 @@
 1. grapsteine@gmail.com
 2. https://www.linkedin.com/in/elyna-grapstein/
 3. https://github.com/elyna-grapstein/github.io
+
+### I am looking forward to:
+> Learning how to effectively and efficiently analyze and visualize large datasets that communicate global challenges.

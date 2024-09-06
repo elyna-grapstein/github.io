@@ -1,6 +1,6 @@
 # Fall 2024 EDS Portfolio
 ## Elyna Grapstein
-[This is what I look like.](https://photo.isu.pub/elynagrapstein/photo_large.jpg)
+![This is what I look like.](https://elynagrapstein.wordpress.com/wp-content/uploads/2021/03/8518523481_3cfd3a1338_o.jpg)
 
 ### Bio
 > I am a science-driven creative interested in addressing environmental issues. I have a broad range of experience in ecological work in the public and private sectors, including work as a field botanist; air quality monitoring; environmental enforcement; riparian restoration; and science education. Currently I am working as an air quality specialist, but my interests are diverse and I am eager to connect with others who are motivated to protect our planet.

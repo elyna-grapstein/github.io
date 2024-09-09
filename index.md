@@ -8,7 +8,7 @@
 ### I am looking forward to:
 > Learning how to effectively and efficiently analyze and visualize large datasets that communicate global challenges.
 
-### This is where I am:
+### This is where I went to grad school:
 
 
 ### Reach out

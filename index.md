@@ -9,9 +9,9 @@
 > Learning how to effectively and efficiently analyze and visualize large datasets that communicate global challenges.
 
 ### This is where I went to grad school:
-
+<embed type="text/html" src="github.io/img/uga.html" width="700" height="700">
 
 ### Reach out
 1. grapsteine@gmail.com
-2. https://www.linkedin.com/in/elyna-grapstein/
-3. https://github.com/elyna-grapstein/github.io
+2. [LinkedIn] (https://www.linkedin.com/in/elyna-grapstein/)
+3. [Github] (https://github.com/elyna-grapstein/github.io)
